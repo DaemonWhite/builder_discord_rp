@@ -1,0 +1,7 @@
+[Plugin]
+Name=Discord Rich Presence
+Loader=python3
+Module=builder_discord_rp
+Author=DaemonWhite
+X-Builder-ABI=44
+X-Has-Resources=true
